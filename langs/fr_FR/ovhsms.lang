@@ -1,0 +1,69 @@
+# Copyright (C) 2017 Mikael Carlavan <contact@mika-carl.fr>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#
+# Générique
+#
+
+# Module label 'ModuleOvhSmsName'
+ModuleOvhSmsName = Ovh Sms
+# Module description 'ModuleOvhSmsDesc'
+ModuleOvhSmsDesc = Module permettant d'envoyer des SMS avec l'api OVH
+
+#
+# Page d'administration
+#
+OvhSmsSetup = Configuration du module
+Settings = Réglages
+OvhSmsSetupPage = Page de réglage du module
+OvhSmsOptions = Options
+Description = Description
+Value = Valeur
+Action = Action
+OvhSmssNumberingModules = Modèle de numérotation de ovhsmss
+NextValue=Prochaine valeur
+NoDescription=Aucune description
+NoExample=Aucun exemple
+NotAvailable=Non disponible
+OvhSms = OvhSms
+DescOVHSMS_APPLICATION_KEY = Clé application OVH
+DescOVHSMS_APPLICATION_SECRET = Secret application OVH
+DescOVHSMS_CONSUMER_KEY = Clé consommateur OVH
+DescOVHSMS_SENDER = Nom utilisé pour l'envoi des SMS (3-11 caractères alphanumériques et espace).
+#
+# Page À propos
+#
+About = À propos
+OvhSmsAbout = À propos du module
+OvhSmsAboutPage = Page à propos du module
+OvhSmsAboutDescLong = Ce module a été développé par <a href="http://www.mikael-carlavan.fr">Mikael Carlavan</a> pour le <a href="http://www.cpie54.com">Centre Permanent d'Initiatives pour l'Environnement</a>.
+
+# ChangeLog
+ChangeLog = ChangeLog
+ChangeLogVersion = Version
+ChangeLogDate = Date
+ChangeLogUpdates = Modification apportées
+OvhSmsFirstVersion = Première version
+
+#
+ErrorWhileCreatingOvhSms = Erreur lors de la création du SMS.
+OvhSmsHasBeenCreated = Votre SMS %s a bien été enregistré.
+
+#
+OvhSmsMessageId = Message Id
+OvhSmsNumber = Numéro
+OvhSmsText = Texte
+OvhSmsSimCardNumber = Numéro carte SIM
+OvhSmsType = Type
